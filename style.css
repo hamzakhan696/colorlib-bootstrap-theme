@@ -214,5 +214,53 @@ font-family: "montserrat-bold", sans-serif;
 }
 
 
+/* section-2 */
+.section-2{
+  height: 100%;
+  padding: 10%;
+  background-color: #fff;
+}
+.section-2 .custom-hr{
+  margin-bottom: 5%;
+}
+.hed-sec-2{
+  color: #39b54a;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
  
+}
+.sec-2-para{
+  font-size: 50px;
+  font-weight: 700;
+}
+.fa{
+  color: #39b54a;
+}
+.service-icon{
+  font-size: 45px;
+  margin-right: 5%;
+ 
+}
+
+.service-text h2{
+  margin-top: 4%;
+  font-size: 30px;
+  font-weight: 600;
+}
+.service-text p{
+  font-size: 18px;
+  color: #757575;
+  font-family: "montserrat-bold", sans-serif;
+  margin-top: 5%;
+}
+@media(max-width:767px ){
+  .service-icon,.service-text{
+    text-align: center;
+  }
+}
+
+
+
   
