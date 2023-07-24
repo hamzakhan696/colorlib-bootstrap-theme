@@ -158,7 +158,8 @@
   
 }
 .header-content h3,h1{
-  margin-left: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .header-content h1{
   color: #fff;
