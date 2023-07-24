@@ -416,7 +416,8 @@ background-color: transparent;
 .section-2 .sec-2-para{
   font-size: 40px;
   font-weight: 700;
-  margin-left: 0%;
+  padding: 0px;
+  margin: 0px;
 }
 @media(max-width:767px ){
   .section-2 .sec-2-para{
@@ -675,7 +676,7 @@ opacity: 0.6;
 
 @media(max-width:578px ){
   .section-5 .sec-2-para{
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 @media(max-width:767px ){
